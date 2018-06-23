@@ -6,5 +6,9 @@ public class Kejunchi {
     public static void main(String[] args) {
         System.out.println("hahahha ");
     }
+    
+    public void test() {
+        System.out.println("hahaha ");
+    }
 }
 
